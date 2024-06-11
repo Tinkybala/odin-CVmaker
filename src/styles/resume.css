@@ -1,0 +1,9 @@
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.line{
+    display: flex;
+    justify-content: space-between ;
+}
